@@ -35,10 +35,10 @@ https://github.com/Mo-Tag/Power-BI-Dashboard/blob/main/data_jobs_v1/README.md
   - Complex Power Query Transformations
   - Star Schema Data Modeling Principles
   - Explicit DAX Measures (e.g., CALCULATE, context modifiers)
-  - Dynamic Visualizations (driven by Parameters/Slicers)
+  - Dynamic Visualisations (driven by Parameters/Slicers)
   - Field & Numeric Parameter Implementation for "What-If" Analysis
   - Enhanced Geospatial Insights
-  - Advanced Card Visualizations
+  - Advanced Card Visualisations
   - Optimized Slicers & Advanced Cross-Filtering Techniques
   - Report Performance Considerations
 
