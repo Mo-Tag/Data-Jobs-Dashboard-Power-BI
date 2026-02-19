@@ -2,7 +2,7 @@
 
 <img width="894" height="500" alt="Project2_page1" src="https://github.com/user-attachments/assets/deef9d66-015b-4ae6-ab66-036ec4ecb3ab" />
 
-Download the project file:
+Download the Power BI file:
 https://github.com/Mo-Tag/Power-BI-Dashboard/releases/download/untagged-1900c628d80cd558d323/Data_Jobs_Dashboard.2.pbix
 
 ## Introduction
