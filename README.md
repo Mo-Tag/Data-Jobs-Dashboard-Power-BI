@@ -42,7 +42,8 @@ https://github.com/Mo-Tag/Power-BI-Dashboard/blob/main/data_jobs_v1/README.md
   - Optimized Slicers & Advanced Cross-Filtering Techniques
   - Report Performance Considerations
 
-**View Full Project 1 Details (README)**:
+**View Full Project 2 Details (README)**:
+https://github.com/Mo-Tag/Power-BI-Dashboard/blob/main/data_jobs_v2/README.md
 
 ---
 
