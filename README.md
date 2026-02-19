@@ -20,5 +20,5 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 - Buttons & Bookmarks for Page Navigation
 - Drill-Through Functionality
 
-[**View Full Project 1 Details**  
-(README)**]/(/data_jobs_v1/README.md)
+**View Full Project 1 Details**  
+(README)**: https://github.com/Mo-Tag/Power-BI-Dashboard/blob/main/data_jobs_v1/README.md
