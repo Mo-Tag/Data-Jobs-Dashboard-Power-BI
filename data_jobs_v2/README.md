@@ -12,13 +12,21 @@ Navigating the data job market can feel like a maze with information scattered e
 - **Data Modeling:** Building efficient data models with relationships (Star Schema principles).
 - **DAX Fundamentals:** Creating calculations and aggregations to derive key insights.
 
-## Visualizations Utilised:
-- **Core Charts:** Column, Bar, Line, and Area charts for comparisons and trends.
-- **Map Charts:** For displaying geospatial data.
+## Visualisations Utilised:
+- **Core Charts:** Column and Bar charts for comparisons and trends.
 - **Cards:** To highlight key performance indicators.
-- **Tables:** For presenting detailed, tabular information.
-- **Chart Variety:** Selecting from common and uncommon chart types for effective storytelling.
 
 ## Interactive Features:
 - **Slicers:** Enabling dynamic, user-driven data filtering.
+- **Buttons and Bookmarks:** For streamlined navigation and managing report views (including Drill-Through).
 
+# Dashboard Overview
+the most critical market insights at their fingertips.
+
+<img width="894" height="500" alt="Project2_page1" src="https://github.com/user-attachments/assets/88d3ff1b-8bf1-4b67-b5ec-b20b95ec87ab" />
+
+This page acts as your concise mission control for the data job market. It showcases key performance indicators (KPIs) like **Job Count**, Skills Per Job, Median Salary, and Median Hourly Salary**. You can also quickly see **Skill Popularity** (by job percent or count) and compare **Salaries across different Job Titles**, all designed for an efficient overview.
+
+# Conclusion
+
+This updated dashboard (Version 2.0) showcases Power BI's ability to transform extensive job posting data into a powerful, streamlined tool for career analysis. It empowers **Job Seekers**, **Job Transitioners**, and **Job Swappers** by allowing them to filter and explore essential market insights efficiently on a single page, helping them make informed decisions about their next career move.
